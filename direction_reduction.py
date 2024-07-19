@@ -13,15 +13,4 @@ def dir_reduc(arr):
             stack.append(direction)
     return stack
 
-# Example usage:
 print(dir_reduc(["NORTH", "SOUTH", "SOUTH", "EAST", "WEST", "NORTH", "WEST"]))
-
-
-# '''
-# not done by me
-
-# north south
-
-# south north
-# east west
-# '''
