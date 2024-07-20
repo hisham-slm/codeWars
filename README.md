@@ -1,5 +1,6 @@
-# Codewars Katas
+# Codewars Katas ![Codewars Badge](https://www.codewars.com/users/hisham-slm/badges/small) 
 
 This repository contains my take on Codewars katas.
 
-![Codewars Badge](https://www.codewars.com/users/hisham-slm/badges/large)
+Highest level done : 4yu
+
