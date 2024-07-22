@@ -13,4 +13,8 @@ def dir_reduc(arr):
             stack.append(direction)
     return stack
 
+<<<<<<< HEAD
 print(dir_reduc(["NORTH", "SOUTH", "SOUTH", "EAST", "WEST", "NORTH", "WEST"]))
+=======
+print(dir_reduc(["NORTH", "SOUTH", "SOUTH", "EAST", "WEST", "NORTH", "WEST"]))
+>>>>>>> d6d683d69b958a07b743214cb12c4e4ed02fe66f
