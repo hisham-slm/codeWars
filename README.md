@@ -1,6 +1,6 @@
-# Codewars Katas
-![Codewars](https://www.codewars.com/users/hisham-slm/badges/large)
+# Codewars Katas ![Codewars Badge](https://www.codewars.com/users/hisham-slm/badges/small) 
 
+This repository contains my take on Codewars katas.
 
-This repository contains my solutions to the katas I have completed on Codewars.
-The katas in this repository are solved using python.
+Highest level done : 4yu
+
